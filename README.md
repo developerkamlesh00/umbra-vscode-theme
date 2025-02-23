@@ -1,4 +1,5 @@
 # Umbra
+![Alt](https://repobeats.axiom.co/api/embed/b739e5df8d6d1599207e2f729bb79e98b28b94eb.svg "Repobeats analytics image")
 
 A [Visual Studio Code](https://code.visualstudio.com/) theme with dark colors inspired by [Bear App](https://bear.app/) and the GitHub syntax colour scheme.
 
